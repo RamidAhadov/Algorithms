@@ -1,0 +1,15 @@
+/Users/macbook/RiderProjects/DataStructures/Algorithms/bin/Debug/net7.0/Algorithms
+/Users/macbook/RiderProjects/DataStructures/Algorithms/bin/Debug/net7.0/Algorithms.deps.json
+/Users/macbook/RiderProjects/DataStructures/Algorithms/bin/Debug/net7.0/Algorithms.runtimeconfig.json
+/Users/macbook/RiderProjects/DataStructures/Algorithms/bin/Debug/net7.0/Algorithms.dll
+/Users/macbook/RiderProjects/DataStructures/Algorithms/bin/Debug/net7.0/Algorithms.pdb
+/Users/macbook/RiderProjects/DataStructures/Algorithms/obj/Debug/net7.0/Algorithms.csproj.AssemblyReference.cache
+/Users/macbook/RiderProjects/DataStructures/Algorithms/obj/Debug/net7.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/RiderProjects/DataStructures/Algorithms/obj/Debug/net7.0/Algorithms.AssemblyInfoInputs.cache
+/Users/macbook/RiderProjects/DataStructures/Algorithms/obj/Debug/net7.0/Algorithms.AssemblyInfo.cs
+/Users/macbook/RiderProjects/DataStructures/Algorithms/obj/Debug/net7.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/macbook/RiderProjects/DataStructures/Algorithms/obj/Debug/net7.0/Algorithms.dll
+/Users/macbook/RiderProjects/DataStructures/Algorithms/obj/Debug/net7.0/refint/Algorithms.dll
+/Users/macbook/RiderProjects/DataStructures/Algorithms/obj/Debug/net7.0/Algorithms.pdb
+/Users/macbook/RiderProjects/DataStructures/Algorithms/obj/Debug/net7.0/Algorithms.genruntimeconfig.cache
+/Users/macbook/RiderProjects/DataStructures/Algorithms/obj/Debug/net7.0/ref/Algorithms.dll
