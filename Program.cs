@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System.Diagnostics;
+using Algorithms.BubbleSort;
 using Algorithms.InsertionSort;
 
 Console.WriteLine("Hello, World!");
@@ -30,8 +31,24 @@ for (int i = 0; i < 100; i++)
 
 InsertionSort<int> insertionSort = new InsertionSort<int>();
 
-var sortedList = insertionSort.Sort(arr);
+//var sortedList = insertionSort.Sort(arr);
 
+BubbleSort<int> bubbleSort = new BubbleSort<int>();
+
+bubbleSort.Sort(arr);
+
+List<int> unsortedList = new List<int>();
+
+
+for (int i = 0; i < 100; i++)
+{
+  unsortedList.Add(random.Next(0, 1000));
+}
+
+
+var newList = new List<int>();
+
+newList = bubbleSort.Sort(unsortedList);
 
 
 Stopwatch stopwatch = new Stopwatch();
