@@ -3,6 +3,7 @@
 using System.Diagnostics;
 using Algorithms.BubbleSort;
 using Algorithms.InsertionSort;
+using Algorithms.MergeSort;
 
 Console.WriteLine("Hello, World!");
 
@@ -35,7 +36,7 @@ InsertionSort<int> insertionSort = new InsertionSort<int>();
 
 BubbleSort<int> bubbleSort = new BubbleSort<int>();
 
-bubbleSort.Sort(arr);
+//bubbleSort.Sort(arr);
 
 List<int> unsortedList = new List<int>();
 
@@ -48,8 +49,16 @@ for (int i = 0; i < 100; i++)
 
 var newList = new List<int>();
 
-newList = bubbleSort.Sort(unsortedList);
+//newList = bubbleSort.Sort(unsortedList);
 
+var mergeArray = new int[10]
+{
+  6, 1, 4, 3, 8, 12, 8, 9, 11, 16
+};
+
+MergeSort<int> mergeSort = new MergeSort<int>();
+
+mergeSort.Sort(mergeArray);
 
 Stopwatch stopwatch = new Stopwatch();
 
